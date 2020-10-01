@@ -16,6 +16,7 @@
 <img align="left" width="1200" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/hack.gif">
  </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 # <div align="center" >Follow these steps to make your first Pull Request🔥</div>
 
