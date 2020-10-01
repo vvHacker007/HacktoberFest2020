@@ -11,19 +11,15 @@
  <img src="http://ForTheBadge.com/images/badges/winter-is-coming.svg" /></a><br>
 </p>
 <p align="center">
+ 
+
+<img align="left" width="1200" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/hack.gif">
+ </p>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
-
-
-
-
-
-
-
-
-
-
-# <div align="center" >🔥How To Make Your Own Pull Request🔥</div>
+# <div align="center" >Follow these steps to make your own Pull Request🔥</div>
 
 ### 1. Go to the top right corner of this page and click on the **Fork** Button.This creates a new copy of my demo repo under your GitHub user account with a URL like:
 ```
