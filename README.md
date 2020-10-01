@@ -81,4 +81,4 @@ git clone https://github.com/<YourUserName>/HacktoberFest_2020
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 </p>
-### ✨Happy coding👨🏻‍💻 fellas
+### Happy coding👨🏻‍💻 fellas
