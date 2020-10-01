@@ -11,19 +11,14 @@
  <img src="http://ForTheBadge.com/images/badges/winter-is-coming.svg" /></a><br>
 </p>
 <p align="center">
+ 
 
+<img align="left" width="1200" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/hack.gif">
+ </p>
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-
-
-
-
-
-
-
-
-
-
-# <div align="center" >🔥How To Make Your Own Pull Request🔥</div>
+# <div align="center" >Follow these steps to make your first Pull Request🔥</div>
 
 ### 1. Go to the top right corner of this page and click on the **Fork** Button.This creates a new copy of my demo repo under your GitHub user account with a URL like:
 ```
@@ -75,13 +70,12 @@ git clone https://github.com/<YourUserName>/HacktoberFest_2020
 </a>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-# <div align="center" >Hurray!!👏 You Successfully Made A PR To This Repo🤝 </div>
+# <div align="center" >Congrats!!👏 You Successfully Made A PR To This Repo🤝</div>
 
-### ⭐️ Make 4 Such Pr's To Get Exclusive Swags And Tee's From Github :
+### ⭐️ Now sit back and wait for your PR's to get merged. Make 4 Such Pr's To Get Exclusive Swags And Tee's👕 From Github😍:
 
 <p>
-<img align="left" width="400" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/congo.gif">
-<img align="left" width="380" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/pr.gif">
+<img align="left" width="380" height="500" src="https://github.com/vvHacker007/Hacktober-Fest2020/blob/master/congrats.gif">
 </p>
 <p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
