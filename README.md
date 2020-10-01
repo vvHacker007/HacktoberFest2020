@@ -75,7 +75,7 @@ git clone https://github.com/<YourUserName>/HacktoberFest_2020
 ### ⭐️ Now sit back and wait for your PR's to get merged. Make 4 Such Pr's To Get Exclusive Swags And Tee's👕 From Github😍:
 
 <p>
-<img align="left" width="380" height="500" src="https://github.com/vvHacker007/Hacktober-Fest2020/blob/master/congrats.gif">
+<img align="left" src="https://github.com/vvHacker007/Hacktober-Fest2020/blob/master/congrats.gif">
 </p>
 <p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
