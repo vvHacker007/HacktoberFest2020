@@ -19,7 +19,7 @@
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
-# <div align="center" >Follow these steps to make your own Pull Request🔥</div>
+# <div align="center" >Follow these steps to make your first Pull Request🔥</div>
 
 ### 1. Go to the top right corner of this page and click on the **Fork** Button.This creates a new copy of my demo repo under your GitHub user account with a URL like:
 ```
