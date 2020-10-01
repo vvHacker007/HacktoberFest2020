@@ -13,7 +13,7 @@
 <p align="center">
  
 
-<img align="left" width="1200" height="500" src="https://github.com/PrathameshDeshpande/HacktoberFest_2020/blob/master/hack.gif">
+<img align="left" width="1200" height="500" src="https://github.com/vvHacker007/Hacktober-Fest2020/blob/master/2.png">
  </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
